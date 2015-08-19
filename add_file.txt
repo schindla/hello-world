@@ -1,1 +1,1 @@
-New test for commit in GitHub Windows.
+New test for commit in GitHub Windows. now added by a second test
